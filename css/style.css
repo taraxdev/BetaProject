@@ -42,7 +42,7 @@ section {
 
 .heading-link {
   text-align: center;
-  background: url(../images/heading-bg.jpg) no-repeat;
+  background: url(../files/header.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -470,7 +470,7 @@ section {
 .about .content .icons-container .icons {
   text-align: center;
   border: 0.1rem solid #0e2ab5;
-  background: #f0fdfa;
+  background: #172df00a;
   padding: 3rem 2rem;
 }
 
